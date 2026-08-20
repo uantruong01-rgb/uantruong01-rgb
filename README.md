@@ -16,7 +16,7 @@
 <table border="0" width="100%">
 <tr>
 <td width="35%" align="center" valign="middle">
-  <img src="avatar.png" width="220" style="border-radius: 50%; border: 3px solid #58a6ff; box-shadow: 0px 4px 20px rgba(88, 166, 255, 0.4);" alt="Alain Truong Avatar"/>
+  <img src="avata.png" width="220" style="border-radius: 50%; border: 3px solid #58a6ff; box-shadow: 0px 4px 20px rgba(88, 166, 255, 0.4);" alt="Alain Truong Avatar"/>
 </td>
 <td width="65%" valign="top">
 
