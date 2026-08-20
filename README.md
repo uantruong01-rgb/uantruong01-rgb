@@ -11,11 +11,7 @@
 <td width="340" valign="top">
 
 <!-- Dán mã ASCII Art từ ảnh của bạn vào đây hoặc thay bằng thẻ <img> -->
-```
 <img src="./avatar.png" width="300" alt="Avatar" style="border-radius: 8px;">
-```
-
-> 🔁 *Thay thế khối trên bằng ASCII Art từ ảnh của bạn hoặc dùng thẻ <img>*
 
 </td>
 <td width="20"></td>
